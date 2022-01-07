@@ -1,0 +1,45 @@
+ul {
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+.addcont{
+  height: 300px;
+  width: 200px;
+  background-color: lightslategrey;
+  margin: 1%;  
+}
+.btn-addcont{
+  background-color: lime;
+}
+.btn-save{
+  background-color: darkgreen;
+}
+.btn-ed{
+  background-color: yellow;
+  color: red;
+  height: 20px;
+  width: 75px;
+  margin-top: 12px;
+}
+.btn-del{
+  background-color: red;
+  color: white;
+  height: 20px;
+  width: 75px;
+}
+.contl{
+  display: flex;
+}
+.ed-modal{
+  height: 300px;
+  width: 190px;
+  background-color: lightgreen;
+  margin: 1%;    
+  padding-right: 10px;
+  text-align: center;
+}
+.li-n {
+  font-size: 18px;
+  color: red;
+  font-weight: 700;
+}
